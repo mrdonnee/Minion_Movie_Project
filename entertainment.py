@@ -14,7 +14,15 @@ ME2 = movie.Movie("Despicalbe ME 2", "When Gru, the world's most super-bad turne
 "https://m.media-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
 "https://www.youtube.com/watch?v=-kYzHmPDZwo")
 
+ME3 = movie.Movie("Despicalbe ME 3", "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+"https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg",
+"https://www.imdb.com/title/tt3469046/videoplayer/vi3318790425")
+
+minion = movie.Movie("Minions", "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+"https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+"https://www.imdb.com/title/tt2293640/videoplayer/vi996454425")
 
 
-movies = [ME, ME2]
+
+movies = [ME, ME2, ME3, minion]
 website.open_movies_page(movies)
