@@ -6,3 +6,4 @@ We will each create 2 files of 2 movies and then practice to pull requests and m
 
 0604 Linda add 1 file of entertaiment.py within 2 movies code.
 
+0604-1 Linda add 2 more movies code in entertainment file.
