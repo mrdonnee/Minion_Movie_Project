@@ -8,3 +8,5 @@ We will each create 2 files of 2 movies and then practice to pull requests and m
 
 0610 Donny added 2 movie trailers to entertaiment and merge the files.
 
+0619 Donny Testing cloning repository.
+
